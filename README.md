@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahulraj4404
-- 👀 I’m interested in ... nothing....
-- 🌱 I’m currently learning ...  nothing..
-- 💞️ I’m looking to collaborate on  anything...
+- 👀 I’m interested in ... Coding
+- 🌱 I’m currently learning ...  web development..
+- 💞️ I’m looking to collaborate on  anything projects related to web domain...
 - 📫 How to reach me ... just mail me rahulrajmetta004@gmail.com
 
 <!---
